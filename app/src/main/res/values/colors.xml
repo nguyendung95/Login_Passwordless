@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#FF6F00</color>
+    <color name="colorPrimary">#FFA000</color>
+    <color name="colorBackground">#FFECB3</color>
+    <color name="colorAccent">#7d97ad</color>
+
+    <color name="accountBackground">#61727f</color>
+    <color name="accountLabel">#7d97ad</color>
+    <color name="accountText">#61727f</color>
+    <color name="accountLogoutLabel">#fc6240</color>
+
+    <color name="ak_background">#FFECB3</color>
+    <color name="ak_text">#61727f</color>
+    <color name="ak_buttonBackground">#FFA000</color>
+    <color name="ak_buttonPressedBackground">#FF6F00</color>
+    <color name="ak_buttonText">#ffffff</color>
+    <color name="ak_inputBackground">#ffffff</color>
+    <color name="ak_inputText">#7d97ad</color>
+    <color name="ak_statusBar">#FF6F00</color>
+    <color name="ak_icon">#FFA000</color>
+</resources>
